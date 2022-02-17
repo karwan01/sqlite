@@ -1,2 +1,2 @@
 # sqlite
-CRUD operation using sqlite 
+CRUD operation using sqflite 
